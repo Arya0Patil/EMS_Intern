@@ -1,0 +1,28 @@
+header{
+    background-color: goldenrod;
+    padding: 10px;
+    border: solid brown;
+}
+
+.body1{
+    width: 400px;
+    height: 500px;
+    background-color: darkkhaki;
+    border: 3px dotted rgb(70, 53, 10);
+    margin: 5px;
+    padding: 0 10px ;
+}
+
+.image img{
+    border-radius: 5px;
+    width: 400px;
+    height: 400px;
+}
+
+.circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    color: brown;
+    border: 5px solid brown;
+}

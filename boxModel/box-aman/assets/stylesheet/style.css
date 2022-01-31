@@ -1,0 +1,23 @@
+.box{
+    width: 600px;
+    height: auto;
+    border: 2px solid brown;
+    font-size: 0;
+}
+
+.innerbox{
+    width: 180px;
+    height: 200px;
+    margin: 10px;
+    background-color: bisque;
+    display: inline-block;
+}
+
+.borderbox{
+    border: 1px solid brown;
+}
+
+.borderbox1{
+    border: 1px solid brown;
+    box-sizing: border-box;
+}
