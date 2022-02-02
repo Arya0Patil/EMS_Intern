@@ -1,0 +1,40 @@
+/* .box{
+    width: 200px;
+    height: 100px;
+     background-color: blueviolet; 
+     position: absolute; 
+}
+
+.box2{
+    background-color: aqua;
+    position: relative; 
+     position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+.box1{
+background-color: blue;
+z-index: 50;
+}
+
+.box3{
+    background-color: bisque;
+    z-index: 50;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+} */
+
+.box{
+    width: 200px;
+    height: 150px;
+    background-color: aqua;
+
+}
+
+.btn{
+    position: fixed;
+    right: 10px;
+    top: 10px;
+}
+
