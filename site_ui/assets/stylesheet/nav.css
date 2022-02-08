@@ -1,0 +1,38 @@
+.navigation{
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    background-color:black;
+    width: 90px;
+    border-radius: 10px;
+    align-items: center;
+    margin: 10px  ;
+    margin-top: 50px;
+    margin-left: 40px;
+    /* box-shadow: 5px 5px rgb(112, 102, 102); */
+    /* color: antiquewhite; */
+    /* margin-top: 10%; */
+  }
+  
+  i{
+    color: white;
+    text-decoration: none;
+    font-size: 21px;
+  }
+
+  .navh1{
+      color: white;
+      font-size: 30px;
+      font-weight: 600;
+  }
+  .nav{
+      margin: 10px;
+      
+      
+  }
+
+  body{
+      width: 100%;
+      display: flex;
+  }
