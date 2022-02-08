@@ -34,12 +34,12 @@
 ```js
 
 function dogAge(age){
-    n=age*7;
+    let n=age*7;
  console.log("Your doggie is " + n +" years old in dog years!")
 }
 
 function dogAge1(age, rate){
-    n=age*rate;
+   let n=age*rate;
  console.log("Your doggie is " + n +" years old in dog years!")
 }
 
