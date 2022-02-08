@@ -1,4 +1,4 @@
-<!-- 
+
  * Returns a letter grade.
  * "A": 90-100%
  * "B": 80-89%
@@ -8,7 +8,7 @@
  * @param {number} score
  * @param {number} total maximum possible score
  * @return {string} the score represented as a letter grade
-  -->
+ 
 
  ```js
 
@@ -24,12 +24,12 @@
  ```
 
 
- <!-- 🎖Write a function named calculateDogAge that:
+ 🎖Write a function named calculateDogAge that:
 
 - [ ] Takes 1 argument: your puppy's age.
 - [ ] Calculates your dog's age based on the conversion rate of 1 human year to 7 dog years.
 - [ ] Outputs the result to the screen like so: "Your doggie is NN years old in dog years!".
-- [ ] Add an additional argument to the function that takes the conversion rate of human to dog years -->
+- [ ] Add an additional argument to the function that takes the conversion rate of human to dog years
 
 ```js
 
