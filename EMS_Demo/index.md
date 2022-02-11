@@ -44,3 +44,41 @@ function dogAge1(age, rate){
 }
 
 ```
+
+let user = {
+  name: "Aman",
+  sayHi() {
+    let arrow = () => alert(this.name);
+    arrow();
+  }
+};
+
+user.sayHi();
+
+
+
+/////
+var personObj1 = {
+  name: "Alex",
+  age: 30
+};
+var personObj2 = personDetails(personObj1);
+console.log(personObj1);
+console.log(personObj2)
+Sudarshan Patil11:39 PM
+function personDetails(person) {
+  person.age = 25;
+  person = {
+    name: "John",
+    age: 50
+  };
+
+  return person;
+}
+var personObj1 = {
+  name: "Alex",
+  age: 30
+};
+var personObj2 = personDetails(personObj1);
+console.log(personObj1); 
+console.log(personObj2);
