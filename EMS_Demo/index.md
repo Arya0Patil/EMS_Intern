@@ -34,16 +34,17 @@
 ```js
 
 function dogAge(age){
-    n=age*7;
+    let n=age*7;
  console.log("Your doggie is " + n +" years old in dog years!")
 }
 
 function dogAge1(age, rate){
-    n=age*rate;
+   let n=age*rate;
  console.log("Your doggie is " + n +" years old in dog years!")
 }
 
 ```
+<<<<<<< HEAD
 
 let user = {
   name: "Aman",
@@ -82,3 +83,5 @@ var personObj1 = {
 var personObj2 = personDetails(personObj1);
 console.log(personObj1); 
 console.log(personObj2);
+=======
+>>>>>>> 7c21f616695581265f70aa029f6935f3417827da
