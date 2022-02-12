@@ -8,6 +8,8 @@ section{
 input{
     margin: 10px;
     border-radius: 5px;
+    width: 30%;
+    height: 30px;
 }
 
 button{
